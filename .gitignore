@@ -1,0 +1,13 @@
+# Python & UV
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+
+# Environnement & Secrets
+.env
+.env.local
+
+# Os specific
+.DS_Store
+Thumbs.db
